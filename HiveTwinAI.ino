@@ -12,8 +12,8 @@
 // =====================================================
 // WIFI SETTINGS
 // =====================================================
-const char* WIFI_SSID = "LAPTOP-S6UPS3T94705";
-const char* WIFI_PASSWORD = "hive12345";
+const char* WIFI_SSID = "YOUR_NETWORK";
+const char* WIFI_PASSWORD = "YOUR_PASSWORD";
 
 // =====================================================
 // FIREBASE REALTIME DATABASE
@@ -22,7 +22,7 @@ const char* WIFI_PASSWORD = "hive12345";
 // Do not add / at the end.
 // =====================================================
 const char* FIREBASE_DATABASE_URL =
-  "https://hivetwinai-default-rtdb.asia-southeast1.firebasedatabase.app";
+  "YOUR_FIREBASE_URL";
 
 // =====================================================
 // PIN CONFIGURATION
