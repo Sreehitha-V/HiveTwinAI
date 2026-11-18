@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 Live Deployment
-- **Live Dashboard URL:** [Insert Vercel Deployment Link Here] *(e.g., https://hivetwin-ai.vercel.app)*
-
+- **Live Dashboard URL:** [Insert Vercel Deployment Link Here].
 ---
 
 ## 🐝 Key Features & Architecture Highlights
