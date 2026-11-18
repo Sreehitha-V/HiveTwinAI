@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Deployment
-- **Live Dashboard URL:** [Insert Vercel Deployment Link Here].
+- **Live Dashboard URL:** (https://hive-twin-ai.vercel.app/).
 ---
 
 ## 🐝 Key Features & Architecture Highlights
